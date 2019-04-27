@@ -18,8 +18,9 @@ Python Flowchart backup:
 Python Code:
 
 
-TODO
+###TODO###
 
+Can be done now:
 - [ ] Draw board in EAGLE
 - [ ] Search on the internet for how to configure Serial-usb chip and update schematic
 - [ ] Make flowchart for python script
