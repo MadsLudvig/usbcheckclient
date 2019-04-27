@@ -20,14 +20,14 @@ Python Code:
 
 TODO
 
-- [ ]Draw board in EAGLE
-- [ ]Search on the internet for how to configure Serial-usb chip and update schematic
-- [ ]Make flowchart for python script
+- [ ] Draw board in EAGLE
+- [ ] Search on the internet for how to configure Serial-usb chip and update schematic
+- [ ] Make flowchart for python script
 
 Breadboarding needed first:
-	- [ ]Figure out what the serial address is in window
-	- [ ]Update flowchart with correct serial address
+	- [ ] Figure out what the serial address is in window
+	- [ ] Update flowchart with correct serial address
 
 Nicks advice needed first:
-	- [ ]Check that schematic in EAGLE is correct
-	- [ ]Ask if EAGLE board is correct
+	- [ ] Check that schematic in EAGLE is correct
+	- [ ] Ask if EAGLE board is correct
