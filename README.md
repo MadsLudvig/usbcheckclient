@@ -25,9 +25,9 @@ TODO
 - [ ] Make flowchart for python script
 
 Breadboarding needed first:
-	- [ ] Figure out what the serial address is in window
-	- [ ] Update flowchart with correct serial address
+- [ ] Figure out what the serial address is in window
+- [ ] Update flowchart with correct serial address
 
 Nicks advice needed first:
-	- [ ] Check that schematic in EAGLE is correct
-	- [ ] Ask if EAGLE board is correct
+- [ ] Check that schematic in EAGLE is correct
+- [ ] Ask if EAGLE board is correct
